@@ -31,7 +31,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 25px 8.5%;
+  padding: 26px 8.5%;
   position: relative;
 }
 nav .logo {
